@@ -25,3 +25,5 @@ let board = "";
   }
     
 console.log(board);
+
+//I had to look up the answers for all of these :(//
